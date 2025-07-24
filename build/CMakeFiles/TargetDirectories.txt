@@ -1,0 +1,3 @@
+/home/axi/project/c/best_code/dy_trt_batch_demo/build/CMakeFiles/mimo_unet_trtInfer.dir
+/home/axi/project/c/best_code/dy_trt_batch_demo/build/CMakeFiles/edit_cache.dir
+/home/axi/project/c/best_code/dy_trt_batch_demo/build/CMakeFiles/rebuild_cache.dir

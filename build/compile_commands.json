@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/axi/project/c/best_code/dy_trt_batch_demo/build",
+  "command": "/usr/bin/g++  -I/home/axi/project/c/best_code/dy_trt_batch_demo/include -I/usr/local/TensorRT-8.6.1.6/include -I/usr/local/cuda-11.8/include -isystem /usr/local/include/opencv4 -g -std=gnu++17 -Wno-deprecated-declarations -o CMakeFiles/mimo_unet_trtInfer.dir/src/main.cpp.o -c /home/axi/project/c/best_code/dy_trt_batch_demo/src/main.cpp",
+  "file": "/home/axi/project/c/best_code/dy_trt_batch_demo/src/main.cpp",
+  "output": "CMakeFiles/mimo_unet_trtInfer.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/axi/project/c/best_code/dy_trt_batch_demo/build",
+  "command": "/usr/bin/g++  -I/home/axi/project/c/best_code/dy_trt_batch_demo/include -I/usr/local/TensorRT-8.6.1.6/include -I/usr/local/cuda-11.8/include -isystem /usr/local/include/opencv4 -g -std=gnu++17 -Wno-deprecated-declarations -o CMakeFiles/mimo_unet_trtInfer.dir/src/mimo_unet.cpp.o -c /home/axi/project/c/best_code/dy_trt_batch_demo/src/mimo_unet.cpp",
+  "file": "/home/axi/project/c/best_code/dy_trt_batch_demo/src/mimo_unet.cpp",
+  "output": "CMakeFiles/mimo_unet_trtInfer.dir/src/mimo_unet.cpp.o"
+}
+]
